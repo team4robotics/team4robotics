@@ -1,11 +1,11 @@
-👋 Hi, We are BEAR - 
+👋 Hi, We are **BEAR** - 
 
-- 👀 Benjamin,
-- 🌱 Evan,
-- 💞️ Anthony
-- 📫 Ryan
+- 👀 **B**enjamin,
+- 🌱 **E**van,
+- 💞️ **A**nthony
+- 📫 **R**yan
 
-A team for robotics!
+A **Team 4 Robotics**!
 
 <!---
 team4robotics/team4robotics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
